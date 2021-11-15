@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Covid-vaccine-app/static/css/main.760fcc08.chunk.css",
+    "main.js": "/Covid-vaccine-app/static/js/main.8b74cdf7.chunk.js",
+    "main.js.map": "/Covid-vaccine-app/static/js/main.8b74cdf7.chunk.js.map",
+    "runtime-main.js": "/Covid-vaccine-app/static/js/runtime-main.fedaf68f.js",
+    "runtime-main.js.map": "/Covid-vaccine-app/static/js/runtime-main.fedaf68f.js.map",
+    "static/css/2.7c35e809.chunk.css": "/Covid-vaccine-app/static/css/2.7c35e809.chunk.css",
+    "static/js/2.3fb1dca2.chunk.js": "/Covid-vaccine-app/static/js/2.3fb1dca2.chunk.js",
+    "static/js/2.3fb1dca2.chunk.js.map": "/Covid-vaccine-app/static/js/2.3fb1dca2.chunk.js.map",
+    "index.html": "/Covid-vaccine-app/index.html",
+    "precache-manifest.ca382da29896451cd55ed0646a188230.js": "/Covid-vaccine-app/precache-manifest.ca382da29896451cd55ed0646a188230.js",
+    "service-worker.js": "/Covid-vaccine-app/service-worker.js",
+    "static/css/2.7c35e809.chunk.css.map": "/Covid-vaccine-app/static/css/2.7c35e809.chunk.css.map",
+    "static/css/main.760fcc08.chunk.css.map": "/Covid-vaccine-app/static/css/main.760fcc08.chunk.css.map",
+    "static/js/2.3fb1dca2.chunk.js.LICENSE.txt": "/Covid-vaccine-app/static/js/2.3fb1dca2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fedaf68f.js",
+    "static/css/2.7c35e809.chunk.css",
+    "static/js/2.3fb1dca2.chunk.js",
+    "static/css/main.760fcc08.chunk.css",
+    "static/js/main.8b74cdf7.chunk.js"
+  ]
+}
